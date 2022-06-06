@@ -1,2 +1,1 @@
-# NextifyNextia
-Created with CodeSandbox
+# Nextify Coding Challenge 🎧 &nbsp; ![hard]
